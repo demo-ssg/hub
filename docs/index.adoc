@@ -1,1 +1,9 @@
-include::../README.adoc[]
+<html>
+  <head>
+    <title>Links</title>
+  </head>
+  <body>
+    <a href="www.google.com">Courses API</a href>
+  </body>
+</html>
+
