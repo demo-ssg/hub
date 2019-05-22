@@ -1,1 +1,1 @@
-link:docs/index.html
+link:docs/index.html[]
