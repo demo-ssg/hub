@@ -1,1 +1,2 @@
-link:docs/index.html[]
+:hide-uri-scheme:
+https://demo-ssg.github.io/hub/
